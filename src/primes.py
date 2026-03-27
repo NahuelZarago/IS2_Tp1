@@ -4,6 +4,9 @@
 lower = 1
 upper = 500
 
+##comentario agregado por la consigna
+##Programa para calcular numeros primos 
+
 print("Prime numbers between", lower, "and", upper, "are:")
 
 for num in range(lower, upper + 1):
